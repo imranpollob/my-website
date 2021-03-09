@@ -23,28 +23,48 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ""
-    date_start: "2018-10-01"
-    description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ""
-  - certificate_url: https://www.edx.org
-    date_end: ""
-    date_start: "2018-03-01"
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: "2017-12-21"
-    date_start: "2017-07-01"
-    description: ""
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: "Object-Oriented Programming in R: S3 and R6 Course"
-    url: ""
+  - certificate_url: https://www.freecodecamp.org/certification/pollmix/scientific-computing-with-python-v7
+    date_start: "2021-01-01"
+    organization: freeCodeCamp
+    organization_url: https://www.freecodecamp.org/
+    title: Scientific Computing with Python
+  - certificate_url: https://www.hackerrank.com/certificates/513a4bcd19c9
+    date_start: "2020-07-01"
+    organization: HackerRank
+    organization_url: https://www.hackerrank.com/
+    title: Rest API
+  - certificate_url: https://www.freecodecamp.org/certification/pollmix/javascript-algorithms-and-data-structures
+    date_start: "2019-02-01"
+    organization: freeCodeCamp
+    organization_url: https://www.freecodecamp.org/
+    title: JavaScript Algorithms and Data Structures
+  - certificate_url: https://university.mongodb.com/course_completion/0f22bad5-4e47-4c46-b85d-035f8502/printable
+    date_start: "2019-01-01"
+    organization: MongoDB
+    organization_url: https://university.mongodb.com/
+    title: M121 The MongoDB Aggregation Framework
+  - certificate_url: https://university.mongodb.com/course_completion/76ba698c-5a70-4fa5-a131-9405b535/printable
+    date_start: "2018-12-01"
+    organization: MongoDB
+    organization_url: https://university.mongodb.com/
+    title: M001 MongoDB Basics
+  - certificate_url: https://www.freecodecamp.org/certification/pollmix/responsive-web-design
+    date_start: "2018-12-01"
+    organization: freeCodeCamp
+    organization_url: https://www.freecodecamp.org/
+    title: Responsive Web Design
+  - certificate_url: http://itpec.org/statsandresults/all-passers-information/Bangladesh/2017S_IP.pdf
+    date_start: "2017-04-01"
+    organization: ITPEC
+    organization_url: https://itpec.org/
+    title: Information Technology Passport Examination (ITEE - IP)
+
+  # - certificate_url: https://www.datacamp.com
+  #   date_end: "2017-12-21"
+  #   date_start: "2017-07-01"
+  #   description: ""
+  #   organization: DataCamp
+  #   organization_url: https://www.datacamp.com
+  #   title: "Object-Oriented Programming in R: S3 and R6 Course"
+  #   url: ""
 ---
