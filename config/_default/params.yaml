@@ -62,7 +62,7 @@ address_format: en-us
 
 # Site features
 
-highlight: true
+highlight: false
 highlight_languages:
   - r
 math: false
@@ -78,7 +78,7 @@ edit_page:
     book: false
 show_related:
   book: true
-  page: false
+  page: true
   post: true
   project: true
   publication: true
@@ -143,4 +143,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false

@@ -40,4 +40,4 @@ A short intro about myself. I am from Bangladesh. I have completed my Bachelorâ€
 
 I always wondered how the prediction works almost perfectly and from curiosity, I started learning about Machine Learning specifically Deep Learning and that decision changed my career entirely. Currently, learning and learning to make myself competent for the ML field. Oh snap! it has no learning boundary ðŸ™ƒ
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_of_m_m_imran.pdf" "newtab" >}}RESUME{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/resume_of_m_m_imran.pdf" "newtab" >}}RESUME{{< /staticref >}}
