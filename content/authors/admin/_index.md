@@ -1,47 +1,43 @@
 ---
-title: Imran Pollob
+title: M. M. IMRAN
 role: Software Engineer
 avatar_filename: https://imranpollob.com/wp-content/uploads/2020/07/Dreamy-Diary-372-1.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Fullstack software engineer with 4+ years of experiece learing to teach machines
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/pollmix
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/pollmix/
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=-K7OkFUAAAAJ&hl=en
 organizations:
-  - name: Janhangirnagar University
-    url: https://www.stanford.edu/
+  - name: Cefalo
+    url: https://www.cefalo.com/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MSc in Information Technology
+      institution: Jahangirnagar University
+      year: 2017
+    - course: BSc in Information Technology
+      institution: Jahangirnagar University
+      year: 2015
+email: "polboy777@gmail.com"
 superuser: true
 highlight_name: false
 ---
-Fullstack Developer with 3+ years of experience. Love to code and explore new things. Let's build something cool together.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+A short intro about myself. I am from Bangladesh. I have completed my Bachelor’s and Masters’s degrees in Information Technology from Jahangirnagar University, which is one of the top public universities in my country. Currently, I am working as a Fullstack Software Engineer for more than 4 years. At my current workspace, my job responsibility is to gather renewable energy data from various sources, preprocess, classify and store it on the cloud for further data analysis to predict future energy data.
+
+I always wondered how the prediction works almost perfectly and from curiosity, I started learning about Machine Learning specifically Deep Learning and that decision changed my career entirely. Currently, learning and learning to make myself competent for the ML field. Oh snap! it has no learning boundary 🙃
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_of_m_m_imran.pdf" "newtab" >}}RESUME{{< /staticref >}}

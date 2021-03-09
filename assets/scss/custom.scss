@@ -1,0 +1,19 @@
+.section-heading {
+  padding-bottom: 20px;
+  -webkit-text-decoration: #ff6601 solid underline;
+  text-decoration: #ff6601 solid underline;
+  -webkit-text-underline-position: under;
+  text-underline-position: under;
+}
+
+.nav-link.active {
+  -webkit-text-decoration: #ff6601 solid underline;
+  text-decoration: #ff6601 solid underline;
+  -webkit-text-underline-position: under;
+  text-underline-position: under;
+}
+
+.fas,
+.fab {
+  color: #d9b7a6;
+}
