@@ -17,3 +17,13 @@
 .fab {
   color: #d9b7a6;
 }
+
+.navbar-brand {
+  font-weight: 400;
+  border: 2px solid #ff6601;
+  border-right: 2px dotted #ff6601;
+  padding: 1px 3px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-radius: 60% 40% 40% 20% / 70% 50% 30% 25%;
+}
