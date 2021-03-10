@@ -12,6 +12,4 @@ view: 2
 header:
   caption: ""
   image: ""
-
-highlight: true
 ---
