@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - ML
-external_link: https://github.com/pollmix/ai-translation
+external_link: ""
 links:
   - url: https://github.com/pollmix/ai-translation
     name: Link

@@ -62,7 +62,7 @@ address_format: en-us
 
 # Site features
 
-highlight: true
+highlight: false
 highlight_languages:
   - php
   - javascript
