@@ -64,7 +64,10 @@ address_format: en-us
 
 highlight: false
 highlight_languages:
-  - r
+  - php
+  - javascript
+  - python
+# highlight_style: "dracula"
 math: false
 diagram: false
 privacy_pack: false
