@@ -1,21 +1,31 @@
 ---
-title: Deep copy object and array using spread operator
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Deep copy object and array using spread operator"
 subtitle: ""
-date: 2021-03-09T15:12:38.446Z
-summary: ""
-draft: false
+summary: "What is swallow copy vs deep copy?"
+authors: []
+tags: []
+categories: ["javascript"]
+date: 2021-03-11T14:21:55+06:00
+lastmod: 2021-03-11T14:21:55+06:00
 featured: false
-authors:
-  - admin
-categories:
-  - javascript
-projects: []
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
-  placement: 2
-  preview_only: true
-  filename: https://cdn.searchenginejournal.com/wp-content/uploads/2019/08/c573bf41-6a7c-4927-845c-4ca0260aad6b-760x400.jpeg
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 highlight: true
 ---
 
