@@ -21,3 +21,7 @@ link_decoration = "underline"
 # Home sections
 home_section_odd = "#f9f7f6"
 home_section_even = "#ffffff"
+
+[dark]
+    link = "#ededed"
+    link_hover = "#ffffff"

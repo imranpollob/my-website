@@ -27,3 +27,8 @@
   border-bottom-left-radius: 15px;
   border-radius: 60% 40% 40% 20% / 70% 50% 30% 25%;
 }
+
+.dark .btn-primary,
+.dark .btn.btn-primary.active {
+  color: #ededed;
+}
