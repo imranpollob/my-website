@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: Earth
+theme: My_Theme
 day_night: true
-font: ""
+font: my_font
 font_size: L
 
 # SEO
