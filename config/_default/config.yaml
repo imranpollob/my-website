@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Imran Pollob # Website name
-baseurl: "https://resume777.netlify.app/" # Website URL
+baseurl: "https://imranpollob.com" # Website URL
 copyright: "© {year} Imran Pollob" # Footer text, e.g. '© {year} Me'
 
 ############################

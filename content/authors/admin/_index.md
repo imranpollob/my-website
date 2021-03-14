@@ -1,5 +1,5 @@
 ---
-title: M. M. IMRAN
+title: IMRAN POLLOB
 role: Software Engineer
 avatar_filename: https://imranpollob.com/wp-content/uploads/2020/07/Dreamy-Diary-372-1.jpg
 bio: Fullstack software engineer with 4+ years of experiece learing to teach machines
