@@ -37,3 +37,16 @@
   font-size: 2.25rem;
   margin-top: 0;
 }
+
+.featurette,
+.experience .card-text, 
+.experience .card-text p,
+.card .card-text p,
+.card-simple .article-style, 
+.media.stream-item .article-style {
+  font-size: .85rem !important;
+}
+
+ul.ul-edu li .description p.institution {
+  font-size: .8rem;
+}

@@ -1,7 +1,7 @@
 ---
 title: COVID Detection form X-RAY
 date: 2021-03-10T13:13:47.650Z
-summary: descriptionIdentify the image of COVID affected chest X-RAY using deep learning utilizing Convolutional Neural Network (CNN).
+summary: Identify the image of COVID affected chest X-RAY using deep learning utilizing Convolutional Neural Network (CNN).
 draft: false
 featured: false
 tags:

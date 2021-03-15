@@ -1,7 +1,7 @@
 ---
 title: Chatbot
 date: 2021-03-10T13:13:47.650Z
-summary: descriptionBuilt and trained a multi-domain generative conversational model that can carry out a meaningful conversation with a human in multiple domains.
+summary: Built and trained a multi-domain generative conversational model that can carry out a meaningful conversation with a human in multiple domains.
 draft: false
 featured: false
 tags:
