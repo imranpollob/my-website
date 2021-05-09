@@ -21,29 +21,25 @@
     debug = true
 
 [[redirects]]
-  from = "http://resume777.netlify.app"
-  to = "https://imranpollob.com"
-  query = {"*" = ":splat"}
+  from = "http://resume777.netlify.app/*"
+  to = "https://imranpollob.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "http://www.resume777.netlify.app"
-  to = "https://imranpollob.com"
-  query = {"*" = ":splat"}
+  from = "http://www.resume777.netlify.app/*"
+  to = "https://imranpollob.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://resume777.netlify.app"
-  to = "https://imranpollob.com"
-  query = {"*" = ":splat"}
+  from = "https://resume777.netlify.app/*"
+  to = "https://imranpollob.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.resume777.netlify.app"
-  to = "https://imranpollob.com"
-  query = {"*" = ":splat"}
+  from = "https://www.resume777.netlify.app/*"
+  to = "https://imranpollob.com/:splat"
   status = 301
   force = true
