@@ -1,6 +1,13 @@
-<!-- Load Facebook SDK for JavaScript -->
+<!-- Messenger Chat Plugin Code -->
 <div id="fb-root"></div>
+
+<!-- Your Chat Plugin code -->
+<div id="fb-customer-chat" class="fb-customerchat"></div>
+
 <script>
+  var chatbox = document.getElementById("fb-customer-chat");
+  chatbox.setAttribute("page_id", "102667315412965");
+  chatbox.setAttribute("attribution", "biz_inbox");
   window.fbAsyncInit = function () {
     FB.init({
       xfbml: true,
@@ -18,10 +25,3 @@
     fjs.parentNode.insertBefore(js, fjs);
   })(document, "script", "facebook-jssdk");
 </script>
-
-<!-- Your Chat Plugin code -->
-<div
-  class="fb-customerchat"
-  attribution="install_email"
-  page_id="102667315412965"
-></div>
