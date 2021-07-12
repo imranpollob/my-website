@@ -5,7 +5,7 @@ summary: A RNN model that operates on characters as one-hot encoded tensors that
 draft: false
 featured: false
 tags:
-  - ML
+  - ml
 external_link: ""
 links:
   - url: https://github.com/pollmix/predict-language-of-a-name

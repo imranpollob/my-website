@@ -5,7 +5,7 @@ summary: Used GloVe pre-trained vector embeddings in PyTorch to perform sentimen
 draft: false
 featured: false
 tags:
-  - ML
+  - ml
 external_link: ""
 links:
   - url: https://github.com/pollmix/sentiment-analysis

@@ -5,7 +5,7 @@ summary: Built a GAN (Generative Adversarial Networks) model that learns from re
 draft: false
 featured: false
 tags:
-  - ML
+  - ml
 external_link: ""
 links:
   - url: https://github.com/pollmix/fake-handwritten-digits

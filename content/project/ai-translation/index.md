@@ -5,7 +5,7 @@ summary: Train a model using PyTorch to learn German to English translation
 draft: false
 featured: false
 tags:
-  - ML
+  - ml
 external_link: ""
 links:
   - url: https://github.com/pollmix/ai-translation

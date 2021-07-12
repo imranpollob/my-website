@@ -27,8 +27,22 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Machine Learning
-      tag: ML
+    - name: Job
+      tag: job
+    - name: ML + DS
+      tag: ml
+    - name: Python
+      tag: python
+    - name: Laravel
+      tag: laravel
+    - name: React
+      tag: react
+    - name: Vue
+      tag: vue
+    - name: Node
+      tag: node
+    - name: Other
+      tag: other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
