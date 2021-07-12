@@ -39,14 +39,33 @@
 }
 
 .featurette,
-.experience .card-text, 
+.experience .card-text,
 .experience .card-text p,
 .card .card-text p,
-.card-simple .article-style, 
+.card-simple .article-style,
 .media.stream-item .article-style {
-  font-size: .85rem !important;
+  font-size: 0.85rem !important;
 }
 
 ul.ul-edu li .description p.institution {
-  font-size: .8rem;
+  font-size: 0.8rem;
+}
+
+.project-card .card .card-text h4 {
+  margin-top: 6px;
+  margin-bottom: 6px;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.btn-group .btn {
+  border-radius: 0 !important;
+}
+
+@media (min-width: 948px) {
+  .project-card .card .card-text h4 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 16px;
+  }
 }
