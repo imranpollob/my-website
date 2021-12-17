@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "VolueInsight | Forecasts & Consulting Energy Market"
+title: "Volue Insight | Forecasts & Consulting Energy Market"
 summary: ""
 authors: []
-tags: ["job"]
+tags: ["job", "python"]
 categories: []
 date: 2021-07-12T13:28:29+06:00
 

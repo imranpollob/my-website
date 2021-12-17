@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Graduate Teaching Assistant
+    company: Wayne State University
+    company_url: "https://wayne.edu"
+    location: Detroit, USA
+    date_start: "2021-08-01"
+    description: "Take lab classes, create assignments and grade answer sheets."
+
   - title: Software Engineer
     company: Cefalo
     company_url: "https://www.cefalo.com/en/"
     location: Dhaka, Bangladesh
     date_start: "2019-09-01"
-    date_end: ""
+    date_end: "2021-07-31"
     description: "My responsibility is to collect data programmatically from numerous sources, organize and filter it for Data Analysis."
 
   - title: Full Stack Software Engineer

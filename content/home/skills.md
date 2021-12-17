@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: PyTorch, Scikit-learn, Pandas, NumPy
+  - description: R, PyTorch, Scikit-learn, Pandas
     icon: robot
     icon_pack: fas
-    name: Machine Learning
+    name: Data Science
   - description: Python, PHP, JavaScript, MySQL
     icon: code
     icon_pack: fas

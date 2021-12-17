@@ -4,7 +4,7 @@
 title: "SeeBiz Inventory"
 summary: ""
 authors: []
-tags: ["job"]
+tags: ["job", "laravel", "react"]
 categories: []
 date: 2021-07-12T13:35:29+06:00
 

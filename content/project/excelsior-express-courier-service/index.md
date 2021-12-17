@@ -4,7 +4,7 @@
 title: "Excelsior Express | Courier Service"
 summary: ""
 authors: []
-tags: ["job"]
+tags: ["job", "laravel"]
 categories: []
 date: 2021-07-12T14:11:36+06:00
 

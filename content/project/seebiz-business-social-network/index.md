@@ -4,7 +4,7 @@
 title: "SeeBiz | Business Social Network"
 summary: ""
 authors: []
-tags: ["job"]
+tags: ["job", "node"]
 categories: []
 date: 2021-07-12T13:34:54+06:00
 

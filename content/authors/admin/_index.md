@@ -1,12 +1,12 @@
 ---
 title: IMRAN POLLOB
-role: Software Engineer
+role: PhD Student
 avatar_filename: https://imranpollob.com/wp-content/uploads/2020/07/Dreamy-Diary-372-1.jpg
 bio: Fullstack software engineer with 4+ years of experiece learing to teach machines
 interests:
-  - Artificial Intelligence
+  - Bioinformatics
   - Machine Learning
-  - Deep Learning
+  - Software Engineering
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,23 +21,23 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=-K7OkFUAAAAJ&hl=en
 organizations:
-  - name: Cefalo
-    url: https://www.cefalo.com/en/
+  - name: Wayne State University
+    url: https://wayne.edu/people/hi8490
 education:
   courses:
+    - course: PhD Student in Computer Science
+      institution: Wayne State University
     - course: MSc in Information Technology
       institution: Jahangirnagar University
-      year: 2017
     - course: BSc in Information Technology
       institution: Jahangirnagar University
-      year: 2015
 email: "polboy777@gmail.com"
 superuser: true
 highlight_name: false
 ---
 
-I am <b>Imran Pollob</b> from Bangladesh. I have completed my Bachelor’s and Masters’s degrees in Information Technology from Jahangirnagar University, which is one of the top public universities in my country. Currently, I am working as a Fullstack Software Engineer for more than 4 years. At my current workspace, my job responsibility is to gather renewable energy data from various sources, preprocess, classify and store it on the cloud for further data analysis to predict future energy data.
+I am **Imran Pollob**. Currently, I am a **PhD student** mainly focusing on **Bioinformatics**. Previously, I was a **software engineer** working in various tech stacks for more than 4 years. However, I feel attached to **Python, JavaScript and PHP**.
 
-I always wondered how the prediction works almost perfectly and from curiosity, I started learning about Machine Learning specifically Deep Learning and that decision changed my career entirely. Currently, learning and learning to make myself competent for the ML field. Oh snap! it has no learning boundary 🙃.
+Nowadays, I pass most of my time with **R** as a bioinformatics researcher. I have a huge interest in software engineering and machine learning field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/resume_of_m_m_imran.pdf" "newtab" >}}<b>RESUME</b>{{< /staticref >}}

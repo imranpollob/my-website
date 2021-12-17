@@ -4,7 +4,7 @@
 title: "Cefalo Recruitment App"
 summary: ""
 authors: []
-tags: ["job"]
+tags: ["job", "laravel", "vue"]
 categories: []
 date: 2021-07-12T13:32:32+06:00
 
