@@ -5,8 +5,8 @@ summary: " "
 authors: []
 tags: []
 categories: ['array', 'leetcode']
-date: 2021-07-04
-lastmod: 2021-07-04
+date: 2021-07-04T15:17:25+06:00
+lastmod: 2021-07-04T15:17:25+06:00
 featured: false
 draft: false
 ---

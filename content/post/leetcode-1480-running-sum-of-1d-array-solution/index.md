@@ -5,8 +5,8 @@ summary: " "
 authors: []
 tags: []
 categories: ['leetcode']
-date: 2021-10-21
-lastmod: 2021-10-21
+date: 2021-10-21T15:17:25+06:00
+lastmod: 2021-10-21T15:17:25+06:00
 featured: false
 draft: false
 ---
