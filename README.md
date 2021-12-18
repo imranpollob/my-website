@@ -13,5 +13,15 @@ hugo server
 
 The website is used Hugo based starter template [starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)
 
-
 Documentation for wowchemy  [https://wowchemy.com/docs/](https://wowchemy.com/docs/)
+
+### General Commands
+Create production build
+```bash
+hugo
+```
+
+Create new post
+```bash
+hugo new  --kind post post/my-article-name
+```

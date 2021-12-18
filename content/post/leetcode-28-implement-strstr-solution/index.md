@@ -1,0 +1,31 @@
+---
+title: "Leetcode 28 - Implement strStr() solution"
+subtitle: ""
+summary: " "
+authors: []
+tags: []
+categories: ['leetcode']
+date: 2021-10-21
+lastmod: 2021-10-21
+featured: false
+draft: false
+---
+Problem [link](https://leetcode.com/problems/implement-strstr)
+
+Solution:
+
+```java
+class Solution {
+    public int strStr(String haystack, String needle) {
+        int nl = needle.length();
+
+        for(int i = 0; i <= haystack.length() - nl; i = i+1) {
+            if (haystack.substring(i, i + nl).equals(needle)) {
+                return i;
+            }
+        }
+        
+        return -1;
+    }
+}
+```
