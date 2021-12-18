@@ -67,7 +67,7 @@ highlight_languages:
   - php
   - javascript
   - python
-# highlight_style: "dracula"
+highlight_style: "dracula"
 math: false
 diagram: false
 privacy_pack: false
