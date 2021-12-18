@@ -4,12 +4,12 @@ subtitle: ""
 summary: " "
 authors: []
 tags: []
-categories: ['leetcode']
+categories: ["leetcode"]
 date: 2021-10-22T15:17:25+06:00
-lastmod: 2021-10-22T15:17:25+06:00
 featured: false
 draft: false
 ---
+
 Problem [link](https://leetcode.com/problems/build-array-from-permutation)
 
 Solution One:
@@ -18,11 +18,11 @@ Solution One:
 class Solution {
     public int[] buildArray(int[] nums) {
         int[] ans = new int[nums.length];
-        
+
         for(int i = 0; i < nums.length; i++){
             ans[i] = nums[nums[i]];
         }
-        
+
         return ans;
     }
 }
@@ -32,9 +32,9 @@ class Solution {
 class Solution:
     def buildArray(self, nums: List[int]) -> List[int]:
         ans = []
-        
+
         for i in range(len(nums)):
             ans.append(nums[nums[i]])
-            
+
         return ans
 ```
