@@ -62,11 +62,7 @@ address_format: en-us
 
 # Site features
 
-highlight: false
-highlight_languages:
-  - php
-  - javascript
-  - python
+highlight: true
 highlight_style: "dracula"
 math: false
 diagram: false
