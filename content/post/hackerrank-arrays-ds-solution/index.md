@@ -5,8 +5,8 @@ summary: " "
 authors: []
 tags: []
 categories: ['array', 'data-structures', 'problem-solving', 'hackerrank']
-date: 2021-07-02
-lastmod: 2021-07-02
+date: 2021-07-02T15:17:25+06:00
+lastmod: 2021-07-02T15:17:25+06:00
 featured: false
 draft: false
 ---

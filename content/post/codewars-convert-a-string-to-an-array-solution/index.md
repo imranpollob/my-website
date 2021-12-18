@@ -5,8 +5,8 @@ summary: " "
 authors: []
 tags: []
 categories: ['codewars', 'string', 'array']
-date: 2021-06-26
-lastmod: 2021-06-26
+date: 2021-06-26T15:17:25+06:00
+lastmod: 2021-06-26T15:17:25+06:00
 featured: false
 draft: false
 ---
