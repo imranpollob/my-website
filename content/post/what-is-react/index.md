@@ -7,7 +7,7 @@ summary: "React is a JavaScript library that aims to simplify development of bui
 authors: []
 tags: []
 categories: ["react"]
-date: 2021-03-11T15:17:25+06:00
+date: 2021-02-11T15:17:25+06:00
 lastmod: 2021-03-11T15:17:25+06:00
 featured: false
 draft: false
