@@ -70,13 +70,15 @@ ul.ul-edu li .description p.institution {
   }
 }
 
-pre > code {
+pre,
+code {
   font-family: "Lora", "Sans Mono", monospace;
   font-size: 15px;
 }
 
 @media (min-width: 927px) {
-  pre > code {
+  pre,
+  code {
     font-size: 18px;
   }
 }
