@@ -14,4 +14,5 @@ header:
   image: "background.jpg"
 ---
 
-My thoughts need a place to flourish, so I started blogging.
+My thoughts need a place to flourish, so I started blogging. You may also like
+👉 [Leetcode solutions](/leetcode) 🤙 [Hackerrank solutions](/hackerrank) 👉 [Codesignal solutions](/codesignal)
