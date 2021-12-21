@@ -42,4 +42,4 @@ design:
   # columns: "1"
 ---
 
-#### 👉 [Leetcode solutions](/leetcode) 🤙 [Hackerrank solutions](/hackerrank) 👉 [Codesignal solutions](/codesignal)
+#### 👉 [Leetcode solutions](/leetcode) 👉 [Hackerrank solutions](/hackerrank) 👉 [Codesignal solutions](/codesignal)
