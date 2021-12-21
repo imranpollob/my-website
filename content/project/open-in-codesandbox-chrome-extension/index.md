@@ -9,7 +9,7 @@ categories: []
 date: 2021-07-12T16:00:08+06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/pollmix/open-in-codesandbox-chrome-extension"
+external_link: "https://github.com/imranpollob/open-in-codesandbox-chrome-extension"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

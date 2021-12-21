@@ -9,7 +9,7 @@ categories: []
 date: 2021-07-12T14:22:36+06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/pollmix/covid-tracking-using-r"
+external_link: "https://github.com/imranpollob/covid-tracking-using-r"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

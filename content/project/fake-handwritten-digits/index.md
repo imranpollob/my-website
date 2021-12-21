@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - ml
-external_link: "https://github.com/pollmix/fake-handwritten-digits"
+external_link: "https://github.com/imranpollob/fake-handwritten-digits"
 image:
   filename: ""
   focal_point: Smart

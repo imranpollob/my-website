@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.freecodecamp.org/certification/pollmix/scientific-computing-with-python-v7
+  - certificate_url: https://www.freecodecamp.org/certification/imranpollob/scientific-computing-with-python-v7
     date_start: "2021-01-01"
     organization: freeCodeCamp
     organization_url: https://www.freecodecamp.org/
@@ -33,7 +33,7 @@ item:
     organization: HackerRank
     organization_url: https://www.hackerrank.com/
     title: Rest API
-  - certificate_url: https://www.freecodecamp.org/certification/pollmix/javascript-algorithms-and-data-structures
+  - certificate_url: https://www.freecodecamp.org/certification/imranpollob/javascript-algorithms-and-data-structures
     date_start: "2019-02-01"
     organization: freeCodeCamp
     organization_url: https://www.freecodecamp.org/
@@ -48,7 +48,7 @@ item:
     organization: MongoDB
     organization_url: https://university.mongodb.com/
     title: M001 MongoDB Basics
-  - certificate_url: https://www.freecodecamp.org/certification/pollmix/responsive-web-design
+  - certificate_url: https://www.freecodecamp.org/certification/imranpollob/responsive-web-design
     date_start: "2018-12-01"
     organization: freeCodeCamp
     organization_url: https://www.freecodecamp.org/

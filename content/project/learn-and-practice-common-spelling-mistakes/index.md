@@ -9,7 +9,7 @@ categories: []
 date: 2021-07-12T15:49:55+06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/pollmix/react-spelling-quiz"
+external_link: "https://github.com/imranpollob/react-spelling-quiz"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

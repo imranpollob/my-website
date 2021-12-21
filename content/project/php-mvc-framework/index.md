@@ -9,7 +9,7 @@ categories: []
 date: 2021-07-12T15:58:58+06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/pollmix/my-php-mvc"
+external_link: "https://github.com/imranpollob/my-php-mvc"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

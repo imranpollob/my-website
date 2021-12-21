@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - ml
-external_link: "https://github.com/pollmix/ai-translation"
+external_link: "https://github.com/imranpollob/ai-translation"
 image:
   filename: ""
   focal_point: Smart

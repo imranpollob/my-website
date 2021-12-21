@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - ml
-external_link: "https://github.com/pollmix/covid-detection-from-xray"
+external_link: "https://github.com/imranpollob/covid-detection-from-xray"
 image:
   filename: ""
   focal_point: Smart

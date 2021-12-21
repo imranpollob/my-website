@@ -9,7 +9,7 @@ categories: []
 date: 2021-07-12T15:43:12+06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/pollmix/github-total-star-counter"
+external_link: "https://github.com/imranpollob/github-total-star-counter"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

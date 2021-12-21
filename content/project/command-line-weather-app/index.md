@@ -9,7 +9,7 @@ categories: []
 date: 2021-07-12T15:57:21+06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/pollmix/node-weather"
+external_link: "https://github.com/imranpollob/node-weather"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

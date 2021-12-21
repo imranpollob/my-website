@@ -30,7 +30,7 @@ projects: []
 
 Run this python notebook script to download torrent files in Google Colab.
 
-<a href="https://colab.research.google.com/github/pollmix/google-colab-torrent-downloader/blob/master/torrent.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/imranpollob/google-colab-torrent-downloader/blob/master/torrent.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Purpose
 
@@ -43,14 +43,13 @@ Run this python notebook script to download torrent files in Google Colab.
 
 1. Click the `Open in Colab` badge above.
 2. Click `Runtime` -> `Run all`
-   ![](https://github.com/pollmix/google-colab-torrent-downloader/raw/master/img/1.jpeg)
+   ![](https://github.com/imranpollob/google-colab-torrent-downloader/raw/master/img/1.jpeg)
 3. Input the torrent magnet link and press `Enter`
-   ![](https://github.com/pollmix/google-colab-torrent-downloader/raw/master/img/2.jpeg)
+   ![](https://github.com/imranpollob/google-colab-torrent-downloader/raw/master/img/2.jpeg)
 4. Open `Files`. Press folder refresh icon. Your downloaded torrent file should be inside the `Torrent` folder
-   ![](https://github.com/pollmix/google-colab-torrent-downloader/raw/master/img/3.jpeg)
+   ![](https://github.com/imranpollob/google-colab-torrent-downloader/raw/master/img/3.jpeg)
 5. Download the file by pressing right click -> `Download`
-   ![](https://github.com/pollmix/google-colab-torrent-downloader/raw/master/img/6.jpeg)
-
+   ![](https://github.com/imranpollob/google-colab-torrent-downloader/raw/master/img/6.jpeg)
 
 ### Notes
 
@@ -62,9 +61,10 @@ One important caveat to remember while using Colab is that the files you upload 
 
 Google Colab gives 80GB space by default. But if you need more space around 350GB then click Runtime -> Change runtime type and give GPU as the Hardware Accelerator.
 
-![](https://github.com/pollmix/google-colab-torrent-downloader/raw/master/img/4.jpeg)
+![](https://github.com/imranpollob/google-colab-torrent-downloader/raw/master/img/4.jpeg)
 
-![](https://github.com/pollmix/google-colab-torrent-downloader/raw/master/img/5.jpeg)
+![](https://github.com/imranpollob/google-colab-torrent-downloader/raw/master/img/5.jpeg)
 
 #### Redownload missing files
+
 If somehow some files are missing try to re-download torrent by rerunning the script. Fastresume will check files.

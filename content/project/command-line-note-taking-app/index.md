@@ -9,7 +9,7 @@ categories: []
 date: 2021-07-12T15:57:52+06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/pollmix/node-note"
+external_link: "https://github.com/imranpollob/node-note"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

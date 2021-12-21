@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - ml
-external_link: "https://github.com/pollmix/sentiment-analysis"
+external_link: "https://github.com/imranpollob/sentiment-analysis"
 image:
   filename: ""
   focal_point: Smart

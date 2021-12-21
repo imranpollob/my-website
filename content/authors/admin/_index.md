@@ -13,10 +13,10 @@ social:
     link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/pollmix
+    link: https://github.com/imranpollob
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/pollmix/
+    link: https://www.linkedin.com/in/imranpollob/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=-K7OkFUAAAAJ&hl=en

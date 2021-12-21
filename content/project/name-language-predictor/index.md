@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - ml
-external_link: "https://github.com/pollmix/predict-language-of-a-name"
+external_link: "https://github.com/imranpollob/predict-language-of-a-name"
 image:
   filename: ""
   focal_point: Smart
