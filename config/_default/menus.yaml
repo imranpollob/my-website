@@ -9,10 +9,26 @@ main:
     weight: 10
   - name: Contact
     url: "#contact"
-    weight: 70
+    weight: 20
+  - name: Blog++
+    identifier: "writing"
+    weight: 30
   - name: Blog
     url: "/post/"
-    weight: 80
+    parent: "writing"
+    weight: 110
+  - name: Leetcode solution
+    url: "/leetcode/"
+    parent: "writing"
+    weight: 120
+  - name: Hackerrank solution
+    url: "/hackerrank/"
+    parent: "writing"
+    weight: 130
+  - name: Codesignal solution
+    url: "/codesignal/"
+    parent: "writing"
+    weight: 140
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV

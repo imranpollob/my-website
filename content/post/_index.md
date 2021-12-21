@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "background.jpg"
 ---
 
----
+My thoughts need a place to flourish, so I started blogging.
