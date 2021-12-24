@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "PHP OOP Complete Tutorial from beginner to advanced"
+title: "PHP OOP Complete Tutorial from Beginner to Advanced"
 subtitle: ""
 summary: "Object Oriented Programming in PHP. Step by step full tutorial with examples"
 authors: []
