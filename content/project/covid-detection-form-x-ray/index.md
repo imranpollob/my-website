@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - ml
-external_link: "https://github.com/imranpollob/pytorch-chatbot"
+external_link: "https://github.com/imranpollob/covid-detection-from-xray"
 image:
   filename: ""
   focal_point: Smart
