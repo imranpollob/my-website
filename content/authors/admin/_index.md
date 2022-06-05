@@ -4,7 +4,7 @@ role: PhD Student
 avatar_filename: https://imranpollob.com/wp-content/uploads/2020/07/Dreamy-Diary-372-1.jpg
 bio: Fullstack software engineer with 4+ years of experiece learing to teach machines
 interests:
-  - Bioinformatics
+  - Blockchain
   - Machine Learning
   - Software Engineering
 social:
@@ -36,8 +36,8 @@ superuser: true
 highlight_name: false
 ---
 
-I am **Imran Pollob**. Currently, I am a **PhD student** mainly focusing on **Bioinformatics**. Previously, I was a **software engineer** working in various tech stacks for more than 4 years. However, I feel attached to **Python, JavaScript and PHP**.
+I am **Imran Pollob**. Currently, I am a **PhD student** mainly focusing on **Blockchain**. Previously, I was a **software engineer** working in various tech stacks for more than 4 years. However, I feel attached to **Python, JavaScript and PHP**.
 
-Nowadays, I pass most of my time with **R** as a bioinformatics researcher. I have a huge interest in software engineering and machine learning field.
+Nowadays, I pass most of my time reading blogs, and papers and watching videos on Blockchain technology. I have a huge interest in software engineering and machine learning field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/resume_of_m_m_imran.pdf" "newtab" >}}<b>RESUME</b>{{< /staticref >}}

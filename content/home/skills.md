@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: R, PyTorch, Scikit-learn, Pandas
-    icon: robot
+  - description: Ethereum, Smart Contract, Solidity
+    icon: cube
     icon_pack: fas
-    name: Data Science
+    name: Blockchain
   - description: Python, PHP, JavaScript, MySQL
     icon: code
     icon_pack: fas
