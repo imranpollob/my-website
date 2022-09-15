@@ -26,6 +26,11 @@
   border-top-right-radius: 15px;
   border-bottom-left-radius: 15px;
   border-radius: 60% 40% 40% 20% / 70% 50% 30% 25%;
+  font-size: 1.3rem;
+}
+
+.navbar {
+  font-size: 16px;
 }
 
 .dark .btn-primary,
@@ -73,12 +78,12 @@ ul.ul-edu li .description p.institution {
 pre,
 code {
   font-family: "Lora", "Sans Mono", monospace;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 @media (min-width: 927px) {
   pre,
   code {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
