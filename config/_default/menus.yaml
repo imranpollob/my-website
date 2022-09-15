@@ -17,6 +17,10 @@ main:
     url: "/post/"
     parent: "writing"
     weight: 110
+  - name: Data Structures & Algorithms
+    url: "/dsa/"
+    parent: "writing"
+    weight: 115
   - name: Leetcode solution
     url: "/leetcode/"
     parent: "writing"
