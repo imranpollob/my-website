@@ -7,8 +7,8 @@ summary: "Steps to follow to become master in Artificial Intelligence"
 authors: []
 tags: ["ml"]
 categories: []
-date: 2022-03-28T06:35:22-04:00
-lastmod: 2022-03-28T06:35:22-04:00
+date: 2022-03-12T06:35:22-04:00
+lastmod: 2022-03-12T06:35:22-04:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Study plan to follow to earn AI:
+Study plan to follow to learn AI:
 
 1. Understand the prerequisites: Before you start learning AI, you should have a solid foundation in computer science fundamentals, mathematics (calculus and linear algebra), and programming languages such as Python.
 
