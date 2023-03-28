@@ -5,10 +5,10 @@ title: "Reverse a string in various programming language"
 subtitle: ""
 summary: "Reversing is a common task in programming. Different language handle this task differently."
 authors: []
-tags: []
+tags: ["javascript", "php", "python"]
 categories: ["javascript", "php", "python"]
-date: 2021-03-11T15:00:16+06:00
-lastmod: 2021-03-11T15:00:16+06:00
+date: 2021-03-11
+lastmod: 2021-03-11
 featured: false
 draft: false
 

@@ -5,10 +5,10 @@ title: "Javascript Arrow Functions"
 subtitle: ""
 summary: "Arrow function is the most significant change in ES6/ES2015 and since its introduction changed how JavaScript code looks and works."
 authors: []
-tags: []
+tags: ["javascript"]
 categories: ["javascript"]
-date: 2021-03-11T15:47:47+06:00
-lastmod: 2021-03-11T15:47:47+06:00
+date: 2021-03-11
+lastmod: 2021-03-11
 featured: false
 draft: false
 

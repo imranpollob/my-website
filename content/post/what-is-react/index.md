@@ -5,10 +5,10 @@ title: "What Is React"
 subtitle: ""
 summary: "React is a JavaScript library that aims to simplify development of building user interfaces. It powering some of the most widely used apps like Facebook and Instagram and other countless applications."
 authors: []
-tags: []
+tags: ["react"]
 categories: ["react"]
-date: 2021-02-11T15:17:25+06:00
-lastmod: 2021-03-11T15:17:25+06:00
+date: 2021-02-11
+lastmod: 2021-03-11
 featured: false
 draft: false
 

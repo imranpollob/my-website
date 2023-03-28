@@ -5,10 +5,10 @@ title: "How to install React directly in a web page"
 subtitle: ""
 summary: "We can add React JS file directly to web page without using create-react-app"
 authors: []
-tags: []
-categories: []
-date: 2021-03-11T15:35:28+06:00
-lastmod: 2021-03-11T15:35:28+06:00
+tags: ["react"]
+categories: ["react"]
+date: 2021-03-11
+lastmod: 2021-03-11
 featured: false
 draft: false
 

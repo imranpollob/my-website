@@ -5,10 +5,10 @@ title: "Javascript Three Dots Rest and Spread Operator"
 subtitle: ""
 summary: "Javascript three dots (...) to handle array, object and string."
 authors: []
-tags: []
+tags: ["javascript"]
 categories: ["javascript"]
-date: 2021-03-11T15:50:29+06:00
-lastmod: 2021-03-11T15:50:29+06:00
+date: 2021-03-11
+lastmod: 2021-03-11
 featured: false
 draft: false
 

@@ -5,10 +5,10 @@ title: "Java OOP Complete Tutorial from Beginner to Advanced"
 subtitle: ""
 summary: "Object Oriented Programming in Java. Step by step full tutorial with examples"
 authors: []
-tags: []
-categories: []
-date: 2021-12-24T01:22:56-05:00
-lastmod: 2021-12-24T01:22:56-05:00
+tags: ["java"]
+categories: ["java"]
+date: 2021-12-24
+lastmod: 2021-12-24
 featured: false
 draft: true
 

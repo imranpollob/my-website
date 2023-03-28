@@ -3,10 +3,10 @@ title: "Programming Topics"
 subtitle: ""
 summary: " "
 authors: []
-tags: []
-categories: ['blog']
-date: 2021-09-24T15:17:25+06:00
-lastmod: 2021-09-24T15:17:25+06:00
+tags: ["blog"]
+categories: ["blog"]
+date: 2021-09-24
+lastmod: 2021-09-24
 featured: false
 draft: false
 ---
@@ -47,9 +47,9 @@ Programming topics to cover
     3. Hamiltonian cycle
     4. Sudoku
  9. Divide and conquer
-10. Geometric algorithm
-11. Mathematical algorithm
-12. Bit algorithm
-13. Graph algorithm
-14. Randomized algorithm
-15. Branch and bound
+1.  Geometric algorithm
+2.  Mathematical algorithm
+3.  Bit algorithm
+4.  Graph algorithm
+5.  Randomized algorithm
+6.  Branch and bound

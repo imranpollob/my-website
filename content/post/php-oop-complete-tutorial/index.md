@@ -5,10 +5,10 @@ title: "PHP OOP Complete Tutorial from Beginner to Advanced"
 subtitle: ""
 summary: "Object Oriented Programming in PHP. Step by step full tutorial with examples"
 authors: []
-tags: []
-categories: []
-date: 2021-12-23T20:41:32-09:00
-lastmod: 2021-12-23T20:41:32-09:00
+tags: ["php"]
+categories: ["php"]
+date: 2021-12-23
+lastmod: 2021-12-23
 featured: false
 draft: false
 
@@ -50,20 +50,20 @@ step by step. I tried my best keep the content as simple as possible.
 - [Type Hinting](#type-hinting)
 - [Static Method and Property](#static-method-and-property)
 - [Trait](#trait)
-- [All magic methods overview](#all-magic-methods-overview)
+- [All Magic Methods Overview](#all-magic-methods-overview)
   - [\_\_construct](#__construct)
   - [\_\_destruct](#__destruct)
   - [\_\_call](#__call)
-  - [\_\_callStatic](#__callStatic)
+  - [\_\_callStatic](#__callstatic)
   - [\_\_get](#__get)
   - [\_\_set](#__set)
   - [\_\_isset](#__isset)
   - [\_\_unset](#__unset)
   - [\_\_sleep](#__sleep)
   - [\_\_wakeup](#__wakeup)
-  - [\_\_toString](#__toString)
+  - [\_\_toString](#__tostring)
   - [\_\_invoke](#__invoke)
-  - [\_\_set_state](#__set_state)
+  - [\_\_set\_state](#__set_state)
   - [\_\_debuginfo](#__debuginfo)
   - [\_\_clone](#__clone)
 

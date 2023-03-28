@@ -5,10 +5,10 @@ title: "Why React is so popular"
 subtitle: ""
 summary: "React is very popular among the frontend arena. Why is that? "
 authors: []
-tags: []
+tags: ["react"]
 categories: ["react"]
-date: 2021-03-11T15:22:09+06:00
-lastmod: 2021-03-11T15:22:09+06:00
+date: 2021-03-11
+lastmod: 2021-03-11
 featured: false
 draft: false
 

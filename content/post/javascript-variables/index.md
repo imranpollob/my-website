@@ -5,10 +5,10 @@ title: "Javascript Variables"
 subtitle: ""
 summary: "Let's tackle down variable creation using var, let and const."
 authors: []
-tags: []
+tags: ["javascript"]
 categories: ["javascript"]
-date: 2021-03-11T15:44:12+06:00
-lastmod: 2021-03-11T15:44:12+06:00
+date: 2021-03-11
+lastmod: 2021-03-11
 featured: false
 draft: false
 

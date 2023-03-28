@@ -6,9 +6,9 @@ subtitle: ""
 summary: "Add a new remote repository to a local Git repository"
 authors: []
 tags: ["git"]
-categories: []
-date: 2022-05-28T06:51:23-04:00
-lastmod: 2022-05-28T06:51:23-04:00
+categories: ["git"]
+date: 2022-05-28
+lastmod: 2022-05-28
 featured: false
 draft: false
 

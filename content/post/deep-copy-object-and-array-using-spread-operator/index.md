@@ -5,10 +5,10 @@ title: "Deep copy object and array using spread operator"
 subtitle: ""
 summary: "What is swallow copy vs deep copy?"
 authors: []
-tags: []
+tags: ["javascript"]
 categories: ["javascript"]
-date: 2021-03-11T14:21:55+06:00
-lastmod: 2021-03-11T14:21:55+06:00
+date: 2021-03-11
+lastmod: 2021-03-11
 featured: false
 draft: false
 

@@ -5,10 +5,10 @@ title: "How to Run a Java Project Using Eclipse IDE - step by step"
 subtitle: ""
 summary: "Run a new Java project by following all prerequisites shown with images"
 authors: []
-tags: []
+tags: ["java"]
 categories: ["java"]
-date: 2021-12-19T12:06:08-05:00
-lastmod: 2021-12-19T12:06:08-05:00
+date: 2021-12-19
+lastmod: 2021-12-19
 featured: false
 draft: false
 # Featured image

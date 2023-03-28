@@ -6,9 +6,9 @@ subtitle: ""
 summary: "Steps to follow to become master in Artificial Intelligence"
 authors: []
 tags: ["ml"]
-categories: []
-date: 2022-03-12T06:35:22-04:00
-lastmod: 2022-03-12T06:35:22-04:00
+categories: ["ml"]
+date: 2022-03-12
+lastmod: 2022-03-12
 featured: false
 draft: false
 
@@ -30,14 +30,14 @@ projects: []
 
 Study plan to follow to learn AI:
 
-1. Understand the prerequisites: Before you start learning AI, you should have a solid foundation in computer science fundamentals, mathematics (calculus and linear algebra), and programming languages such as Python.
+1. __Understand the prerequisites:__ Before you start learning AI, you should have a solid foundation in computer science fundamentals, mathematics (calculus and linear algebra), and programming languages such as Python.
 
-2. Ace AI theory: Once you’ve learned the prerequisites, you’re ready to dive into AI theory. You can start with courses that cover topics such as machine learning, deep learning, natural language processing, computer vision, and robotics.
+2. __Ace AI theory:__ Once you’ve learned the prerequisites, you’re ready to dive into AI theory. You can start with courses that cover topics such as machine learning, deep learning, natural language processing, computer vision, and robotics.
 
-3. Master data processing: Data processing is such a significant aspect of AI that it’s a field unto itself. You can learn about data processing techniques such as data cleaning, data transformation, feature engineering, and data visualization.
+3. __Master data processing:__ Data processing is such a significant aspect of AI that it’s a field unto itself. You can learn about data processing techniques such as data cleaning, data transformation, feature engineering, and data visualization.
 
-4. Build projects: Building projects is an excellent way to apply what you’ve learned and gain practical experience. You can start with simple projects such as building a chatbot or a recommendation system.
+4. __Build projects:__ Building projects is an excellent way to apply what you’ve learned and gain practical experience. You can start with simple projects such as building a chatbot or a recommendation system.
 
-5. Participate in competitions: Competitions are an excellent way to test your skills and learn from others. You can participate in competitions such as Kaggle.
+5. __Participate in competitions:__ Competitions are an excellent way to test your skills and learn from others. You can participate in competitions such as Kaggle.
 
-6. Network with other AI enthusiasts: Networking with other AI enthusiasts can help you stay motivated and learn about new opportunities.
+6. __Network with other AI enthusiasts:__ Networking with other AI enthusiasts can help you stay motivated and learn about new opportunities.

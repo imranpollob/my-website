@@ -5,10 +5,10 @@ title: "Download Torrent Using Google Colab"
 subtitle: ""
 summary: "Run this python notebook script to download torrent files in Google Colab"
 authors: []
-tags: []
-categories: ["blog", "python"]
-date: 2021-12-19T02:39:16-05:00
-lastmod: 2021-12-19T02:39:16-05:00
+tags: ["python"]
+categories: ["python"]
+date: 2021-12-19
+lastmod: 2021-12-19
 featured: false
 draft: false
 
