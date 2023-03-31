@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Web Seems Fake With the Rise of Ai Tools"
+title: "The Web Seems Fake With the Rise of AI Tools"
 subtitle: ""
 summary: "Text data and images have been particularly affected by AI tools, causing a decrease in authenticity and a feeling of inorganic contents when surfing the web"
 authors: []
@@ -29,6 +29,8 @@ projects: []
 ---
 
 The world we live in is changing. In the past months, we have seen the rise of Artificial Intelligence (AI) and its integration into our everyday lives. This has revolutionized the way we interact with technology, and has had a profound effect on the web. With the emergence of powerful AI tools, the web has become increasingly fake, leading many to feel like the content they are consuming is no longer real.
+
+![alt](OIG-min.jpg)
 
 The feeling of fake content has been creeping up on us for some time now, but it has only become more obvious as AI tools have become more sophisticated. AI tools have made it easier than ever to create content that is indistinguishable from real content, leading to a feeling of unease among web users. This feeling is only going to get worse as AI tools become more powerful and widespread.
 
